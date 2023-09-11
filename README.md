@@ -1,11 +1,11 @@
 # Price Group for Dynamics AX
-Tool creates Trade Agreements for AX Dynamics in N number of currencies currencies
+Tool creates Trade Agreements for AX Dynamics in N-number of currencies currencies
 
 ## Content Description
-* creates new version directory in your folder system according to the date
-* reads the source files and recognizes currency. renames the file according to the currency inside
-* class TradeAgreemen cleans the data, shapes the TA for each input file and safes the TAs
-* class SampleData selects items randomly (files with volume prices) than it displys the values in file and opens the URL link to that product
+* creates new version directory in your folder system based on the date
+* reads the source files and recognizes currency. renames the file based on the currency inside
+* class TradeAgreement cleans the data, shapes the Price Group for each input file and safes the files
+* class SampleData selects items randomly (volume prices) than displays the values in file and opens the URL link to that product
 
 ## Import
 
