@@ -1,4 +1,4 @@
-# TA_AX_dynamics
+# Price Group for Dynamics AX
 Tool creates Trade Agreements for AX Dynamics in N number of currencies currencies
 
 ## Content Description
